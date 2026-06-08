@@ -1,5 +1,4 @@
-// Demo
-// task 1
+ task 1
 #include <stdio.h>
 
 int main() {
